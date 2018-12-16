@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IlanoCedricLab1</string>
+    <string name="linear_layout">Linear Layout</string>
 </resources>
